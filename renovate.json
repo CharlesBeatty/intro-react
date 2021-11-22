@@ -3,3 +3,11 @@
     "config:base"
   ]
 }
+{
+  "packageRules": [
+    {
+      "matchDatasources": ["npm"],
+      "stabilityDays": 10
+    }
+  ]
+}
