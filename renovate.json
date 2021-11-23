@@ -2,8 +2,7 @@
   "extends": [
     "config:base"
   ]
-}
-{
+
   "packageRules": [
     {
       "matchDatasources": ["npm"],
